@@ -1,5 +1,7 @@
-# Programa Desenvolva+ em parceria da Ada com o Mercado Livre.
-## Módulo 04 (programação web)
+# Aplicações Java com Maven (Parte 01 do módulo)
+
+## Programa Desenvolva+ em parceria da Ada Tech com o Mercado Livre.
+### Módulo 04 (programação web)
 
 ### Conteúdo do curso:
 
